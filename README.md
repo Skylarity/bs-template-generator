@@ -1,4 +1,4 @@
-# bs-template-generator
+# Bootstrap Template Generator
 
 This generates a bootstrap template with **current** links.
 
